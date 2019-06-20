@@ -2,4 +2,4 @@
 name = My Project
 
 [servers.ghpages]
-target = ghpages+https://fajket/lektor-website
+target = ghpages+https://fajket/my-website
