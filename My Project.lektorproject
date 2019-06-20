@@ -1,0 +1,5 @@
+[project]
+name = My Project
+
+[servers.ghpages]
+target = ghpages+https://fajket/lektor-website
