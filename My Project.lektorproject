@@ -3,3 +3,6 @@ name = My Project
 
 [servers.ghpages]
 target = ghpages+https://fajket/my-website
+
+[servers.production]
+target = ghpages://fajket/my-website?cname=www.fajket.com
